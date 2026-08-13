@@ -1,0 +1,1250 @@
+{
+ "UNIONBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "UNIONBANK-EQ",
+  "symboltoken": "10753",
+  "lotsize": "1"
+ },
+ "ULTRACEMCO": {
+  "exchange": "NSE",
+  "tradingsymbol": "ULTRACEMCO-EQ",
+  "symboltoken": "11532",
+  "lotsize": "1"
+ },
+ "KAYNES": {
+  "exchange": "NSE",
+  "tradingsymbol": "KAYNES-EQ",
+  "symboltoken": "12092",
+  "lotsize": "1"
+ },
+ "HDFCBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "HDFCBANK-EQ",
+  "symboltoken": "1333",
+  "lotsize": "1"
+ },
+ "TECHM": {
+  "exchange": "NSE",
+  "tradingsymbol": "TECHM-EQ",
+  "symboltoken": "13538",
+  "lotsize": "1"
+ },
+ "HINDUNILVR": {
+  "exchange": "NSE",
+  "tradingsymbol": "HINDUNILVR-EQ",
+  "symboltoken": "1394",
+  "lotsize": "1"
+ },
+ "DLF": {
+  "exchange": "NSE",
+  "tradingsymbol": "DLF-EQ",
+  "symboltoken": "14732",
+  "lotsize": "1"
+ },
+ "POWERGRID": {
+  "exchange": "NSE",
+  "tradingsymbol": "POWERGRID-EQ",
+  "symboltoken": "14977",
+  "lotsize": "1"
+ },
+ "ADANIPORTS": {
+  "exchange": "NSE",
+  "tradingsymbol": "ADANIPORTS-EQ",
+  "symboltoken": "15083",
+  "lotsize": "1"
+ },
+ "NHPC": {
+  "exchange": "NSE",
+  "tradingsymbol": "NHPC-EQ",
+  "symboltoken": "17400",
+  "lotsize": "1"
+ },
+ "HEROMOTOCO": {
+  "exchange": "NSE",
+  "tradingsymbol": "HEROMOTOCO-EQ",
+  "symboltoken": "1348",
+  "lotsize": "1"
+ },
+ "HINDALCO": {
+  "exchange": "NSE",
+  "tradingsymbol": "HINDALCO-EQ",
+  "symboltoken": "1363",
+  "lotsize": "1"
+ },
+ "INDHOTEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "INDHOTEL-EQ",
+  "symboltoken": "1512",
+  "lotsize": "1"
+ },
+ "ITC": {
+  "exchange": "NSE",
+  "tradingsymbol": "ITC-EQ",
+  "symboltoken": "1660",
+  "lotsize": "1"
+ },
+ "JSWENERGY": {
+  "exchange": "NSE",
+  "tradingsymbol": "JSWENERGY-EQ",
+  "symboltoken": "17869",
+  "lotsize": "1"
+ },
+ "JUBLFOOD": {
+  "exchange": "NSE",
+  "tradingsymbol": "JUBLFOOD-EQ",
+  "symboltoken": "18096",
+  "lotsize": "1"
+ },
+ "BDL": {
+  "exchange": "NSE",
+  "tradingsymbol": "BDL-EQ",
+  "symboltoken": "2144",
+  "lotsize": "1"
+ },
+ "SWIGGY": {
+  "exchange": "NSE",
+  "tradingsymbol": "SWIGGY-EQ",
+  "symboltoken": "27066",
+  "lotsize": "1"
+ },
+ "SIEMENS": {
+  "exchange": "NSE",
+  "tradingsymbol": "SIEMENS-EQ",
+  "symboltoken": "3150",
+  "lotsize": "1"
+ },
+ "SUNPHARMA": {
+  "exchange": "NSE",
+  "tradingsymbol": "SUNPHARMA-EQ",
+  "symboltoken": "3351",
+  "lotsize": "1"
+ },
+ "WIPRO": {
+  "exchange": "NSE",
+  "tradingsymbol": "WIPRO-EQ",
+  "symboltoken": "3787",
+  "lotsize": "1"
+ },
+ "MOTHERSON": {
+  "exchange": "NSE",
+  "tradingsymbol": "MOTHERSON-EQ",
+  "symboltoken": "4204",
+  "lotsize": "1"
+ },
+ "BANKBARODA": {
+  "exchange": "NSE",
+  "tradingsymbol": "BANKBARODA-EQ",
+  "symboltoken": "4668",
+  "lotsize": "1"
+ },
+ "ICICIBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "ICICIBANK-EQ",
+  "symboltoken": "4963",
+  "lotsize": "1"
+ },
+ "ETERNAL": {
+  "exchange": "NSE",
+  "tradingsymbol": "ETERNAL-EQ",
+  "symboltoken": "5097",
+  "lotsize": "1"
+ },
+ "KOTAKBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "KOTAKBANK-EQ",
+  "symboltoken": "1922",
+  "lotsize": "1"
+ },
+ "LICHSGFIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "LICHSGFIN-EQ",
+  "symboltoken": "1997",
+  "lotsize": "1"
+ },
+ "AUBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "AUBANK-EQ",
+  "symboltoken": "21238",
+  "lotsize": "1"
+ },
+ "MFSL": {
+  "exchange": "NSE",
+  "tradingsymbol": "MFSL-EQ",
+  "symboltoken": "2142",
+  "lotsize": "1"
+ },
+ "IEX": {
+  "exchange": "NSE",
+  "tradingsymbol": "IEX-EQ",
+  "symboltoken": "220",
+  "lotsize": "1"
+ },
+ "ONGC": {
+  "exchange": "NSE",
+  "tradingsymbol": "ONGC-EQ",
+  "symboltoken": "2475",
+  "lotsize": "1"
+ },
+ "LTF": {
+  "exchange": "NSE",
+  "tradingsymbol": "LTF-EQ",
+  "symboltoken": "24948",
+  "lotsize": "1"
+ },
+ "WAAREEENER": {
+  "exchange": "NSE",
+  "tradingsymbol": "WAAREEENER-EQ",
+  "symboltoken": "25907",
+  "lotsize": "1"
+ },
+ "BAJFINANCE": {
+  "exchange": "NSE",
+  "tradingsymbol": "BAJFINANCE-EQ",
+  "symboltoken": "317",
+  "lotsize": "1"
+ },
+ "NAM-INDIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "NAM-INDIA-EQ",
+  "symboltoken": "357",
+  "lotsize": "1"
+ },
+ "BHEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "BHEL-EQ",
+  "symboltoken": "438",
+  "lotsize": "1"
+ },
+ "MPHASIS": {
+  "exchange": "NSE",
+  "tradingsymbol": "MPHASIS-EQ",
+  "symboltoken": "4503",
+  "lotsize": "1"
+ },
+ "AXISBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "AXISBANK-EQ",
+  "symboltoken": "5900",
+  "lotsize": "1"
+ },
+ "POLICYBZR": {
+  "exchange": "NSE",
+  "tradingsymbol": "POLICYBZR-EQ",
+  "symboltoken": "6656",
+  "lotsize": "1"
+ },
+ "PAYTM": {
+  "exchange": "NSE",
+  "tradingsymbol": "PAYTM-EQ",
+  "symboltoken": "6705",
+  "lotsize": "1"
+ },
+ "AMBER": {
+  "exchange": "NSE",
+  "tradingsymbol": "AMBER-EQ",
+  "symboltoken": "1185",
+  "lotsize": "1"
+ },
+ "KEI": {
+  "exchange": "NSE",
+  "tradingsymbol": "KEI-EQ",
+  "symboltoken": "13310",
+  "lotsize": "1"
+ },
+ "PFC": {
+  "exchange": "NSE",
+  "tradingsymbol": "PFC-EQ",
+  "symboltoken": "14299",
+  "lotsize": "1"
+ },
+ "NMDC": {
+  "exchange": "NSE",
+  "tradingsymbol": "NMDC-EQ",
+  "symboltoken": "15332",
+  "lotsize": "1"
+ },
+ "PATANJALI": {
+  "exchange": "NSE",
+  "tradingsymbol": "PATANJALI-EQ",
+  "symboltoken": "17029",
+  "lotsize": "1"
+ },
+ "LICI": {
+  "exchange": "NSE",
+  "tradingsymbol": "LICI-EQ",
+  "symboltoken": "9480",
+  "lotsize": "1"
+ },
+ "DELHIVERY": {
+  "exchange": "NSE",
+  "tradingsymbol": "DELHIVERY-EQ",
+  "symboltoken": "9599",
+  "lotsize": "1"
+ },
+ "LUPIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "LUPIN-EQ",
+  "symboltoken": "10440",
+  "lotsize": "1"
+ },
+ "OFSS": {
+  "exchange": "NSE",
+  "tradingsymbol": "OFSS-EQ",
+  "symboltoken": "10738",
+  "lotsize": "1"
+ },
+ "IDFCFIRSTB": {
+  "exchange": "NSE",
+  "tradingsymbol": "IDFCFIRSTB-EQ",
+  "symboltoken": "11184",
+  "lotsize": "1"
+ },
+ "NYKAA": {
+  "exchange": "NSE",
+  "tradingsymbol": "NYKAA-EQ",
+  "symboltoken": "6545",
+  "lotsize": "1"
+ },
+ "GRASIM": {
+  "exchange": "NSE",
+  "tradingsymbol": "GRASIM-EQ",
+  "symboltoken": "1232",
+  "lotsize": "1"
+ },
+ "SOLARINDS": {
+  "exchange": "NSE",
+  "tradingsymbol": "SOLARINDS-EQ",
+  "symboltoken": "13332",
+  "lotsize": "1"
+ },
+ "UNOMINDA": {
+  "exchange": "NSE",
+  "tradingsymbol": "UNOMINDA-EQ",
+  "symboltoken": "14154",
+  "lotsize": "1"
+ },
+ "ASTRAL": {
+  "exchange": "NSE",
+  "tradingsymbol": "ASTRAL-EQ",
+  "symboltoken": "14418",
+  "lotsize": "1"
+ },
+ "COLPAL": {
+  "exchange": "NSE",
+  "tradingsymbol": "COLPAL-EQ",
+  "symboltoken": "15141",
+  "lotsize": "1"
+ },
+ "MANKIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "MANKIND-EQ",
+  "symboltoken": "15380",
+  "lotsize": "1"
+ },
+ "INFY": {
+  "exchange": "NSE",
+  "tradingsymbol": "INFY-EQ",
+  "symboltoken": "1594",
+  "lotsize": "1"
+ },
+ "CROMPTON": {
+  "exchange": "NSE",
+  "tradingsymbol": "CROMPTON-EQ",
+  "symboltoken": "17094",
+  "lotsize": "1"
+ },
+ "POWERINDIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "POWERINDIA-EQ",
+  "symboltoken": "18457",
+  "lotsize": "1"
+ },
+ "VBL": {
+  "exchange": "NSE",
+  "tradingsymbol": "VBL-EQ",
+  "symboltoken": "18921",
+  "lotsize": "1"
+ },
+ "MANAPPURAM": {
+  "exchange": "NSE",
+  "tradingsymbol": "MANAPPURAM-EQ",
+  "symboltoken": "19061",
+  "lotsize": "1"
+ },
+ "DMART": {
+  "exchange": "NSE",
+  "tradingsymbol": "DMART-EQ",
+  "symboltoken": "19913",
+  "lotsize": "1"
+ },
+ "DALBHARAT": {
+  "exchange": "NSE",
+  "tradingsymbol": "DALBHARAT-EQ",
+  "symboltoken": "8075",
+  "lotsize": "1"
+ },
+ "EICHERMOT": {
+  "exchange": "NSE",
+  "tradingsymbol": "EICHERMOT-EQ",
+  "symboltoken": "910",
+  "lotsize": "1"
+ },
+ "PGEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "PGEL-EQ",
+  "symboltoken": "25358",
+  "lotsize": "1"
+ },
+ "ANGELONE": {
+  "exchange": "NSE",
+  "tradingsymbol": "ANGELONE-EQ",
+  "symboltoken": "324",
+  "lotsize": "1"
+ },
+ "HDFCAMC": {
+  "exchange": "NSE",
+  "tradingsymbol": "HDFCAMC-EQ",
+  "symboltoken": "4244",
+  "lotsize": "1"
+ },
+ "BANKINDIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "BANKINDIA-EQ",
+  "symboltoken": "4745",
+  "lotsize": "1"
+ },
+ "IRFC": {
+  "exchange": "NSE",
+  "tradingsymbol": "IRFC-EQ",
+  "symboltoken": "2029",
+  "lotsize": "1"
+ },
+ "ASHOKLEY": {
+  "exchange": "NSE",
+  "tradingsymbol": "ASHOKLEY-EQ",
+  "symboltoken": "212",
+  "lotsize": "1"
+ },
+ "BOSCHLTD": {
+  "exchange": "NSE",
+  "tradingsymbol": "BOSCHLTD-EQ",
+  "symboltoken": "2181",
+  "lotsize": "1"
+ },
+ "HAL": {
+  "exchange": "NSE",
+  "tradingsymbol": "HAL-EQ",
+  "symboltoken": "2303",
+  "lotsize": "1"
+ },
+ "HYUNDAI": {
+  "exchange": "NSE",
+  "tradingsymbol": "HYUNDAI-EQ",
+  "symboltoken": "25844",
+  "lotsize": "1"
+ },
+ "RELIANCE": {
+  "exchange": "NSE",
+  "tradingsymbol": "RELIANCE-EQ",
+  "symboltoken": "2885",
+  "lotsize": "1"
+ },
+ "BPCL": {
+  "exchange": "NSE",
+  "tradingsymbol": "BPCL-EQ",
+  "symboltoken": "526",
+  "lotsize": "1"
+ },
+ "BRITANNIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "BRITANNIA-EQ",
+  "symboltoken": "547",
+  "lotsize": "1"
+ },
+ "JINDALSTEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "JINDALSTEL-EQ",
+  "symboltoken": "6733",
+  "lotsize": "1"
+ },
+ "CHOLAFIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "CHOLAFIN-EQ",
+  "symboltoken": "685",
+  "lotsize": "1"
+ },
+ "ZYDUSLIFE": {
+  "exchange": "NSE",
+  "tradingsymbol": "ZYDUSLIFE-EQ",
+  "symboltoken": "7929",
+  "lotsize": "1"
+ },
+ "RVNL": {
+  "exchange": "NSE",
+  "tradingsymbol": "RVNL-EQ",
+  "symboltoken": "9552",
+  "lotsize": "1"
+ },
+ "GODREJCP": {
+  "exchange": "NSE",
+  "tradingsymbol": "GODREJCP-EQ",
+  "symboltoken": "10099",
+  "lotsize": "1"
+ },
+ "DIVISLAB": {
+  "exchange": "NSE",
+  "tradingsymbol": "DIVISLAB-EQ",
+  "symboltoken": "10940",
+  "lotsize": "1"
+ },
+ "COFORGE": {
+  "exchange": "NSE",
+  "tradingsymbol": "COFORGE-EQ",
+  "symboltoken": "11543",
+  "lotsize": "1"
+ },
+ "GODFRYPHLP": {
+  "exchange": "NSE",
+  "tradingsymbol": "GODFRYPHLP-EQ",
+  "symboltoken": "1181",
+  "lotsize": "1"
+ },
+ "360ONE": {
+  "exchange": "NSE",
+  "tradingsymbol": "360ONE-EQ",
+  "symboltoken": "13061",
+  "lotsize": "1"
+ },
+ "GMRAIRPORT": {
+  "exchange": "NSE",
+  "tradingsymbol": "GMRAIRPORT-EQ",
+  "symboltoken": "13528",
+  "lotsize": "1"
+ },
+ "INDIANB": {
+  "exchange": "NSE",
+  "tradingsymbol": "INDIANB-EQ",
+  "symboltoken": "14309",
+  "lotsize": "1"
+ },
+ "MOTILALOFS": {
+  "exchange": "NSE",
+  "tradingsymbol": "MOTILALOFS-EQ",
+  "symboltoken": "14947",
+  "lotsize": "1"
+ },
+ "DRREDDY": {
+  "exchange": "NSE",
+  "tradingsymbol": "DRREDDY-EQ",
+  "symboltoken": "881",
+  "lotsize": "1"
+ },
+ "BAJAJ-AUTO": {
+  "exchange": "NSE",
+  "tradingsymbol": "BAJAJ-AUTO-EQ",
+  "symboltoken": "16669",
+  "lotsize": "1"
+ },
+ "BAJAJFINSV": {
+  "exchange": "NSE",
+  "tradingsymbol": "BAJAJFINSV-EQ",
+  "symboltoken": "16675",
+  "lotsize": "1"
+ },
+ "PNB": {
+  "exchange": "NSE",
+  "tradingsymbol": "PNB-EQ",
+  "symboltoken": "10666",
+  "lotsize": "1"
+ },
+ "RADICO": {
+  "exchange": "NSE",
+  "tradingsymbol": "RADICO-EQ",
+  "symboltoken": "10990",
+  "lotsize": "1"
+ },
+ "MARUTI": {
+  "exchange": "NSE",
+  "tradingsymbol": "MARUTI-EQ",
+  "symboltoken": "10999",
+  "lotsize": "1"
+ },
+ "INDIGO": {
+  "exchange": "NSE",
+  "tradingsymbol": "INDIGO-EQ",
+  "symboltoken": "11195",
+  "lotsize": "1"
+ },
+ "BIOCON": {
+  "exchange": "NSE",
+  "tradingsymbol": "BIOCON-EQ",
+  "symboltoken": "11373",
+  "lotsize": "1"
+ },
+ "LT": {
+  "exchange": "NSE",
+  "tradingsymbol": "LT-EQ",
+  "symboltoken": "11483",
+  "lotsize": "1"
+ },
+ "YESBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "YESBANK-EQ",
+  "symboltoken": "11915",
+  "lotsize": "1"
+ },
+ "SUZLON": {
+  "exchange": "NSE",
+  "tradingsymbol": "SUZLON-EQ",
+  "symboltoken": "12018",
+  "lotsize": "1"
+ },
+ "KFINTECH": {
+  "exchange": "NSE",
+  "tradingsymbol": "KFINTECH-EQ",
+  "symboltoken": "13359",
+  "lotsize": "1"
+ },
+ "HINDPETRO": {
+  "exchange": "NSE",
+  "tradingsymbol": "HINDPETRO-EQ",
+  "symboltoken": "1406",
+  "lotsize": "1"
+ },
+ "OIL": {
+  "exchange": "NSE",
+  "tradingsymbol": "OIL-EQ",
+  "symboltoken": "17438",
+  "lotsize": "1"
+ },
+ "RBLBANK": {
+  "exchange": "NSE",
+  "tradingsymbol": "RBLBANK-EQ",
+  "symboltoken": "18391",
+  "lotsize": "1"
+ },
+ "ICICIPRULI": {
+  "exchange": "NSE",
+  "tradingsymbol": "ICICIPRULI-EQ",
+  "symboltoken": "18652",
+  "lotsize": "1"
+ },
+ "TRENT": {
+  "exchange": "NSE",
+  "tradingsymbol": "TRENT-EQ",
+  "symboltoken": "1964",
+  "lotsize": "1"
+ },
+ "COCHINSHIP": {
+  "exchange": "NSE",
+  "tradingsymbol": "COCHINSHIP-EQ",
+  "symboltoken": "21508",
+  "lotsize": "1"
+ },
+ "DIXON": {
+  "exchange": "NSE",
+  "tradingsymbol": "DIXON-EQ",
+  "symboltoken": "21690",
+  "lotsize": "1"
+ },
+ "SBILIFE": {
+  "exchange": "NSE",
+  "tradingsymbol": "SBILIFE-EQ",
+  "symboltoken": "21808",
+  "lotsize": "1"
+ },
+ "SAIL": {
+  "exchange": "NSE",
+  "tradingsymbol": "SAIL-EQ",
+  "symboltoken": "2963",
+  "lotsize": "1"
+ },
+ "NBCC": {
+  "exchange": "NSE",
+  "tradingsymbol": "NBCC-EQ",
+  "symboltoken": "31415",
+  "lotsize": "1"
+ },
+ "LODHA": {
+  "exchange": "NSE",
+  "tradingsymbol": "LODHA-EQ",
+  "symboltoken": "3220",
+  "lotsize": "1"
+ },
+ "TORNTPHARM": {
+  "exchange": "NSE",
+  "tradingsymbol": "TORNTPHARM-EQ",
+  "symboltoken": "3518",
+  "lotsize": "1"
+ },
+ "SHRIRAMFIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "SHRIRAMFIN-EQ",
+  "symboltoken": "4306",
+  "lotsize": "1"
+ },
+ "COALINDIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "COALINDIA-EQ",
+  "symboltoken": "20374",
+  "lotsize": "1"
+ },
+ "ABCAPITAL": {
+  "exchange": "NSE",
+  "tradingsymbol": "ABCAPITAL-EQ",
+  "symboltoken": "21614",
+  "lotsize": "1"
+ },
+ "APLAPOLLO": {
+  "exchange": "NSE",
+  "tradingsymbol": "APLAPOLLO-EQ",
+  "symboltoken": "25780",
+  "lotsize": "1"
+ },
+ "AUROPHARMA": {
+  "exchange": "NSE",
+  "tradingsymbol": "AUROPHARMA-EQ",
+  "symboltoken": "275",
+  "lotsize": "1"
+ },
+ "KALYANKJIL": {
+  "exchange": "NSE",
+  "tradingsymbol": "KALYANKJIL-EQ",
+  "symboltoken": "2955",
+  "lotsize": "1"
+ },
+ "VEDL": {
+  "exchange": "NSE",
+  "tradingsymbol": "VEDL-EQ",
+  "symboltoken": "3063",
+  "lotsize": "1"
+ },
+ "SHREECEM": {
+  "exchange": "NSE",
+  "tradingsymbol": "SHREECEM-EQ",
+  "symboltoken": "3103",
+  "lotsize": "1"
+ },
+ "TIINDIA": {
+  "exchange": "NSE",
+  "tradingsymbol": "TIINDIA-EQ",
+  "symboltoken": "312",
+  "lotsize": "1"
+ },
+ "TMPV": {
+  "exchange": "NSE",
+  "tradingsymbol": "TMPV-EQ",
+  "symboltoken": "3456",
+  "lotsize": "1"
+ },
+ "BHARATFORG": {
+  "exchange": "NSE",
+  "tradingsymbol": "BHARATFORG-EQ",
+  "symboltoken": "422",
+  "lotsize": "1"
+ },
+ "INDUSINDBK": {
+  "exchange": "NSE",
+  "tradingsymbol": "INDUSINDBK-EQ",
+  "symboltoken": "5258",
+  "lotsize": "1"
+ },
+ "NATIONALUM": {
+  "exchange": "NSE",
+  "tradingsymbol": "NATIONALUM-EQ",
+  "symboltoken": "6364",
+  "lotsize": "1"
+ },
+ "HCLTECH": {
+  "exchange": "NSE",
+  "tradingsymbol": "HCLTECH-EQ",
+  "symboltoken": "7229",
+  "lotsize": "1"
+ },
+ "GLENMARK": {
+  "exchange": "NSE",
+  "tradingsymbol": "GLENMARK-EQ",
+  "symboltoken": "7406",
+  "lotsize": "1"
+ },
+ "CGPOWER": {
+  "exchange": "NSE",
+  "tradingsymbol": "CGPOWER-EQ",
+  "symboltoken": "760",
+  "lotsize": "1"
+ },
+ "ADANIENSOL": {
+  "exchange": "NSE",
+  "tradingsymbol": "ADANIENSOL-EQ",
+  "symboltoken": "10217",
+  "lotsize": "1"
+ },
+ "UNITDSPR": {
+  "exchange": "NSE",
+  "tradingsymbol": "UNITDSPR-EQ",
+  "symboltoken": "10447",
+  "lotsize": "1"
+ },
+ "POLYCAB": {
+  "exchange": "NSE",
+  "tradingsymbol": "POLYCAB-EQ",
+  "symboltoken": "9590",
+  "lotsize": "1"
+ },
+ "BHARTIARTL": {
+  "exchange": "NSE",
+  "tradingsymbol": "BHARTIARTL-EQ",
+  "symboltoken": "10604",
+  "lotsize": "1"
+ },
+ "HAVELLS": {
+  "exchange": "NSE",
+  "tradingsymbol": "HAVELLS-EQ",
+  "symboltoken": "9819",
+  "lotsize": "1"
+ },
+ "CANBK": {
+  "exchange": "NSE",
+  "tradingsymbol": "CANBK-EQ",
+  "symboltoken": "10794",
+  "lotsize": "1"
+ },
+ "TCS": {
+  "exchange": "NSE",
+  "tradingsymbol": "TCS-EQ",
+  "symboltoken": "11536",
+  "lotsize": "1"
+ },
+ "FORCEMOT": {
+  "exchange": "NSE",
+  "tradingsymbol": "FORCEMOT-EQ",
+  "symboltoken": "11573",
+  "lotsize": "1"
+ },
+ "JSWSTEEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "JSWSTEEL-EQ",
+  "symboltoken": "11723",
+  "lotsize": "1"
+ },
+ "NAUKRI": {
+  "exchange": "NSE",
+  "tradingsymbol": "NAUKRI-EQ",
+  "symboltoken": "13751",
+  "lotsize": "1"
+ },
+ "PHOENIXLTD": {
+  "exchange": "NSE",
+  "tradingsymbol": "PHOENIXLTD-EQ",
+  "symboltoken": "14552",
+  "lotsize": "1"
+ },
+ "IOC": {
+  "exchange": "NSE",
+  "tradingsymbol": "IOC-EQ",
+  "symboltoken": "1624",
+  "lotsize": "1"
+ },
+ "GVT&D": {
+  "exchange": "NSE",
+  "tradingsymbol": "GVT&D-EQ",
+  "symboltoken": "16783",
+  "lotsize": "1"
+ },
+ "FEDERALBNK": {
+  "exchange": "NSE",
+  "tradingsymbol": "FEDERALBNK-EQ",
+  "symboltoken": "1023",
+  "lotsize": "1"
+ },
+ "UPL": {
+  "exchange": "NSE",
+  "tradingsymbol": "UPL-EQ",
+  "symboltoken": "11287",
+  "lotsize": "1"
+ },
+ "PETRONET": {
+  "exchange": "NSE",
+  "tradingsymbol": "PETRONET-EQ",
+  "symboltoken": "11351",
+  "lotsize": "1"
+ },
+ "NTPC": {
+  "exchange": "NSE",
+  "tradingsymbol": "NTPC-EQ",
+  "symboltoken": "11630",
+  "lotsize": "1"
+ },
+ "ABB": {
+  "exchange": "NSE",
+  "tradingsymbol": "ABB-EQ",
+  "symboltoken": "13",
+  "lotsize": "1"
+ },
+ "HINDZINC": {
+  "exchange": "NSE",
+  "tradingsymbol": "HINDZINC-EQ",
+  "symboltoken": "1424",
+  "lotsize": "1"
+ },
+ "PAGEIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "PAGEIND-EQ",
+  "symboltoken": "14413",
+  "lotsize": "1"
+ },
+ "FORTIS": {
+  "exchange": "NSE",
+  "tradingsymbol": "FORTIS-EQ",
+  "symboltoken": "14592",
+  "lotsize": "1"
+ },
+ "APOLLOHOSP": {
+  "exchange": "NSE",
+  "tradingsymbol": "APOLLOHOSP-EQ",
+  "symboltoken": "157",
+  "lotsize": "1"
+ },
+ "ADANIPOWER": {
+  "exchange": "NSE",
+  "tradingsymbol": "ADANIPOWER-EQ",
+  "symboltoken": "17388",
+  "lotsize": "1"
+ },
+ "ALKEM": {
+  "exchange": "NSE",
+  "tradingsymbol": "ALKEM-EQ",
+  "symboltoken": "11703",
+  "lotsize": "1"
+ },
+ "AMBUJACEM": {
+  "exchange": "NSE",
+  "tradingsymbol": "AMBUJACEM-EQ",
+  "symboltoken": "1270",
+  "lotsize": "1"
+ },
+ "IDEA": {
+  "exchange": "NSE",
+  "tradingsymbol": "IDEA-EQ",
+  "symboltoken": "14366",
+  "lotsize": "1"
+ },
+ "RECLTD": {
+  "exchange": "NSE",
+  "tradingsymbol": "RECLTD-EQ",
+  "symboltoken": "15355",
+  "lotsize": "1"
+ },
+ "LTM": {
+  "exchange": "NSE",
+  "tradingsymbol": "LTM-EQ",
+  "symboltoken": "17818",
+  "lotsize": "1"
+ },
+ "SBICARD": {
+  "exchange": "NSE",
+  "tradingsymbol": "SBICARD-EQ",
+  "symboltoken": "17971",
+  "lotsize": "1"
+ },
+ "GODREJPROP": {
+  "exchange": "NSE",
+  "tradingsymbol": "GODREJPROP-EQ",
+  "symboltoken": "17875",
+  "lotsize": "1"
+ },
+ "PERSISTENT": {
+  "exchange": "NSE",
+  "tradingsymbol": "PERSISTENT-EQ",
+  "symboltoken": "18365",
+  "lotsize": "1"
+ },
+ "PNBHOUSING": {
+  "exchange": "NSE",
+  "tradingsymbol": "PNBHOUSING-EQ",
+  "symboltoken": "18908",
+  "lotsize": "1"
+ },
+ "BSE": {
+  "exchange": "NSE",
+  "tradingsymbol": "BSE-EQ",
+  "symboltoken": "19585",
+  "lotsize": "1"
+ },
+ "IREDA": {
+  "exchange": "NSE",
+  "tradingsymbol": "IREDA-EQ",
+  "symboltoken": "20261",
+  "lotsize": "1"
+ },
+ "PRESTIGE": {
+  "exchange": "NSE",
+  "tradingsymbol": "PRESTIGE-EQ",
+  "symboltoken": "20302",
+  "lotsize": "1"
+ },
+ "BANDHANBNK": {
+  "exchange": "NSE",
+  "tradingsymbol": "BANDHANBNK-EQ",
+  "symboltoken": "2263",
+  "lotsize": "1"
+ },
+ "ASIANPAINT": {
+  "exchange": "NSE",
+  "tradingsymbol": "ASIANPAINT-EQ",
+  "symboltoken": "236",
+  "lotsize": "1"
+ },
+ "PREMIERENE": {
+  "exchange": "NSE",
+  "tradingsymbol": "PREMIERENE-EQ",
+  "symboltoken": "25049",
+  "lotsize": "1"
+ },
+ "PIDILITIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "PIDILITIND-EQ",
+  "symboltoken": "2664",
+  "lotsize": "1"
+ },
+ "BAJAJHLDNG": {
+  "exchange": "NSE",
+  "tradingsymbol": "BAJAJHLDNG-EQ",
+  "symboltoken": "305",
+  "lotsize": "1"
+ },
+ "SUPREMEIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "SUPREMEIND-EQ",
+  "symboltoken": "3363",
+  "lotsize": "1"
+ },
+ "TATASTEEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "TATASTEEL-EQ",
+  "symboltoken": "3499",
+  "lotsize": "1"
+ },
+ "TITAN": {
+  "exchange": "NSE",
+  "tradingsymbol": "TITAN-EQ",
+  "symboltoken": "3506",
+  "lotsize": "1"
+ },
+ "ADANIGREEN": {
+  "exchange": "NSE",
+  "tradingsymbol": "ADANIGREEN-EQ",
+  "symboltoken": "3563",
+  "lotsize": "1"
+ },
+ "BEL": {
+  "exchange": "NSE",
+  "tradingsymbol": "BEL-EQ",
+  "symboltoken": "383",
+  "lotsize": "1"
+ },
+ "MARICO": {
+  "exchange": "NSE",
+  "tradingsymbol": "MARICO-EQ",
+  "symboltoken": "4067",
+  "lotsize": "1"
+ },
+ "NESTLEIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "NESTLEIND-EQ",
+  "symboltoken": "17963",
+  "lotsize": "1"
+ },
+ "CUMMINSIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "CUMMINSIND-EQ",
+  "symboltoken": "1901",
+  "lotsize": "1"
+ },
+ "OBEROIRLTY": {
+  "exchange": "NSE",
+  "tradingsymbol": "OBEROIRLTY-EQ",
+  "symboltoken": "20242",
+  "lotsize": "1"
+ },
+ "ICICIGI": {
+  "exchange": "NSE",
+  "tradingsymbol": "ICICIGI-EQ",
+  "symboltoken": "21770",
+  "lotsize": "1"
+ },
+ "MAXHEALTH": {
+  "exchange": "NSE",
+  "tradingsymbol": "MAXHEALTH-EQ",
+  "symboltoken": "22377",
+  "lotsize": "1"
+ },
+ "MUTHOOTFIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "MUTHOOTFIN-EQ",
+  "symboltoken": "23650",
+  "lotsize": "1"
+ },
+ "ADANIENT": {
+  "exchange": "NSE",
+  "tradingsymbol": "ADANIENT-EQ",
+  "symboltoken": "25",
+  "lotsize": "1"
+ },
+ "INDUSTOWER": {
+  "exchange": "NSE",
+  "tradingsymbol": "INDUSTOWER-EQ",
+  "symboltoken": "29135",
+  "lotsize": "1"
+ },
+ "SRF": {
+  "exchange": "NSE",
+  "tradingsymbol": "SRF-EQ",
+  "symboltoken": "3273",
+  "lotsize": "1"
+ },
+ "TATAELXSI": {
+  "exchange": "NSE",
+  "tradingsymbol": "TATAELXSI-EQ",
+  "symboltoken": "3411",
+  "lotsize": "1"
+ },
+ "CAMS": {
+  "exchange": "NSE",
+  "tradingsymbol": "CAMS-EQ",
+  "symboltoken": "342",
+  "lotsize": "1"
+ },
+ "TATACONSUM": {
+  "exchange": "NSE",
+  "tradingsymbol": "TATACONSUM-EQ",
+  "symboltoken": "3432",
+  "lotsize": "1"
+ },
+ "HDFCLIFE": {
+  "exchange": "NSE",
+  "tradingsymbol": "HDFCLIFE-EQ",
+  "symboltoken": "467",
+  "lotsize": "1"
+ },
+ "SONACOMS": {
+  "exchange": "NSE",
+  "tradingsymbol": "SONACOMS-EQ",
+  "symboltoken": "4684",
+  "lotsize": "1"
+ },
+ "MAZDOCK": {
+  "exchange": "NSE",
+  "tradingsymbol": "MAZDOCK-EQ",
+  "symboltoken": "509",
+  "lotsize": "1"
+ },
+ "JIOFIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "JIOFIN-EQ",
+  "symboltoken": "18143",
+  "lotsize": "1"
+ },
+ "LAURUSLABS": {
+  "exchange": "NSE",
+  "tradingsymbol": "LAURUSLABS-EQ",
+  "symboltoken": "19234",
+  "lotsize": "1"
+ },
+ "M&M": {
+  "exchange": "NSE",
+  "tradingsymbol": "M&M-EQ",
+  "symboltoken": "2031",
+  "lotsize": "1"
+ },
+ "CDSL": {
+  "exchange": "NSE",
+  "tradingsymbol": "CDSL-EQ",
+  "symboltoken": "21174",
+  "lotsize": "1"
+ },
+ "PIIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "PIIND-EQ",
+  "symboltoken": "24184",
+  "lotsize": "1"
+ },
+ "VMM": {
+  "exchange": "NSE",
+  "tradingsymbol": "VMM-EQ",
+  "symboltoken": "27969",
+  "lotsize": "1"
+ },
+ "SBIN": {
+  "exchange": "NSE",
+  "tradingsymbol": "SBIN-EQ",
+  "symboltoken": "3045",
+  "lotsize": "1"
+ },
+ "MCX": {
+  "exchange": "NSE",
+  "tradingsymbol": "MCX-EQ",
+  "symboltoken": "31181",
+  "lotsize": "1"
+ },
+ "TATAPOWER": {
+  "exchange": "NSE",
+  "tradingsymbol": "TATAPOWER-EQ",
+  "symboltoken": "3426",
+  "lotsize": "1"
+ },
+ "VOLTAS": {
+  "exchange": "NSE",
+  "tradingsymbol": "VOLTAS-EQ",
+  "symboltoken": "3718",
+  "lotsize": "1"
+ },
+ "GAIL": {
+  "exchange": "NSE",
+  "tradingsymbol": "GAIL-EQ",
+  "symboltoken": "4717",
+  "lotsize": "1"
+ },
+ "CONCOR": {
+  "exchange": "NSE",
+  "tradingsymbol": "CONCOR-EQ",
+  "symboltoken": "4749",
+  "lotsize": "1"
+ },
+ "INOXWIND": {
+  "exchange": "NSE",
+  "tradingsymbol": "INOXWIND-EQ",
+  "symboltoken": "7852",
+  "lotsize": "1"
+ },
+ "BLUESTARCO": {
+  "exchange": "NSE",
+  "tradingsymbol": "BLUESTARCO-EQ",
+  "symboltoken": "8311",
+  "lotsize": "1"
+ },
+ "TVSMOTOR": {
+  "exchange": "NSE",
+  "tradingsymbol": "TVSMOTOR-EQ",
+  "symboltoken": "8479",
+  "lotsize": "1"
+ },
+ "KPITTECH": {
+  "exchange": "NSE",
+  "tradingsymbol": "KPITTECH-EQ",
+  "symboltoken": "9683",
+  "lotsize": "1"
+ },
+ "DABUR": {
+  "exchange": "NSE",
+  "tradingsymbol": "DABUR-EQ",
+  "symboltoken": "772",
+  "lotsize": "1"
+ },
+ "CIPLA": {
+  "exchange": "NSE",
+  "tradingsymbol": "CIPLA-EQ",
+  "symboltoken": "694",
+  "lotsize": "1"
+ }
+}

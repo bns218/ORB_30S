@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>F&amp;O 30s Gainers/Losers</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header>
+    <h1>F&amp;O Stocks — 30s Candle Gainers / Losers</h1>
+    <div id="status" class="status disconnected">connecting…</div>
+  </header>
+
+  <p class="rule">
+    Rule: two consecutive 30s candles opening low &amp; closing near the high (green) → <b>GAINER</b>.
+    Two consecutive 30s candles opening high &amp; closing near the low (red) → <b>LOSER</b>.
+  </p>
+
+  <main>
+    <section class="col gainers">
+      <h2>Gainers <span id="gainer-count">0</span></h2>
+      <table>
+        <thead><tr><th>Symbol</th><th>LTP</th><th>% Chg</th><th>Last 2 Candles</th></tr></thead>
+        <tbody id="gainers-body"></tbody>
+      </table>
+    </section>
+
+    <section class="col losers">
+      <h2>Losers <span id="loser-count">0</span></h2>
+      <table>
+        <thead><tr><th>Symbol</th><th>LTP</th><th>% Chg</th><th>Last 2 Candles</th></tr></thead>
+        <tbody id="losers-body"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
