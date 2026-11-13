@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 logs/
 server.log
+data/candle_log/
 .claude/settings.local.json

@@ -3,25 +3,28 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>F&amp;O 30s Gainers/Losers</title>
-<link rel="stylesheet" href="/static/style.css" />
+<title>F&amp;O Today Gainers/Losers</title>
+<link rel="stylesheet" href="/static/style.css?v=6" />
 </head>
 <body>
   <header>
-    <h1>F&amp;O Stocks — 30s Candle Gainers / Losers</h1>
-    <div id="status" class="status disconnected">connecting…</div>
+    <h1>F&amp;O Stocks — Today's Gainers / Losers</h1>
+    <div class="header-right">
+      <span id="countdown" class="countdown"></span>
+      <div id="status" class="status disconnected">connecting…</div>
+    </div>
   </header>
 
   <p class="rule">
-    Rule: two consecutive 30s candles opening low &amp; closing near the high (green) → <b>GAINER</b>.
-    Two consecutive 30s candles opening high &amp; closing near the low (red) → <b>LOSER</b>.
+    Gainers: F&amp;O stocks trading above yesterday's close. Losers: trading below yesterday's close.
+    Two candles per stock: the last completed 30s candle, then the live one still forming (redrawn every second). Hover for O/H/L/C.
   </p>
 
   <main>
     <section class="col gainers">
       <h2>Gainers <span id="gainer-count">0</span></h2>
       <table>
-        <thead><tr><th>Symbol</th><th>LTP</th><th>% Chg</th><th>Last 2 Candles</th></tr></thead>
+        <thead><tr><th>Symbol</th><th>LTP</th><th>Prev Close</th><th>% Chg</th><th>Last 30s candle</th><th>Live 30s candle</th></tr></thead>
         <tbody id="gainers-body"></tbody>
       </table>
     </section>
@@ -29,12 +32,12 @@
     <section class="col losers">
       <h2>Losers <span id="loser-count">0</span></h2>
       <table>
-        <thead><tr><th>Symbol</th><th>LTP</th><th>% Chg</th><th>Last 2 Candles</th></tr></thead>
+        <thead><tr><th>Symbol</th><th>LTP</th><th>Prev Close</th><th>% Chg</th><th>Last 30s candle</th><th>Live 30s candle</th></tr></thead>
         <tbody id="losers-body"></tbody>
       </table>
     </section>
   </main>
 
-  <script src="/static/app.js"></script>
+  <script src="/static/app.js?v=6"></script>
 </body>
 </html>

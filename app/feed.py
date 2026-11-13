@@ -68,7 +68,9 @@ class FeedRunner:
             return
         ts_ms = message.get("exchange_timestamp")
         ts = ts_ms / 1000.0 if ts_ms else time.time()
-        self.aggregator.on_tick(token, ltp_paise / 100.0, ts)
+        prev_close_paise = message.get("closed_price")
+        prev_close = prev_close_paise / 100.0 if prev_close_paise else None
+        self.aggregator.on_tick(token, ltp_paise / 100.0, ts, prev_close=prev_close)
 
     def _on_error(self, wsapp, error) -> None:
         logger.error("WebSocket error: %s", error)
